@@ -1,2 +1,2 @@
 # Cryptography
-Cryptography leb practical (Python)
+Cryptography practical (Python)
